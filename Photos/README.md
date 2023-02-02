@@ -2,7 +2,7 @@
 # Xie Tingting
 
 
-<img width="468" src="https://user-images.githubusercontent.com/124218511/216205293-58687696-79ba-4fc0-8449-3e183dcfc672.png">
+<img src="https://user-images.githubusercontent.com/124218511/216205293-58687696-79ba-4fc0-8449-3e183dcfc672.png">
 <img width="250" alt="image" src="https://user-images.githubusercontent.com/124218511/216208387-9b428e7f-5ac1-4d4f-a7bd-949a73d10379.png">
 <img width="335" alt="image" src="https://user-images.githubusercontent.com/124218511/216208395-07eb0745-0ccc-4f68-9657-740c3f10c50a.png">
 <img width="335" alt="image" src="https://user-images.githubusercontent.com/124218511/216208413-dd644241-8abe-4795-9c98-55e7a4530c8a.png">
